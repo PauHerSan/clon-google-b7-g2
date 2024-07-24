@@ -1,0 +1,32 @@
+* {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+figure{
+    width: 20px;
+}
+
+#cuadro{
+    width: 20px;
+}
+
+footer div{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+ul li{
+    display: inline; 
+ }
+ ul {
+     padding: 0px;
+     margin: 0px;
+ }
+
+ nav {
+    display: flex;
+    justify-content: end;
+}
